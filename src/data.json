@@ -1,0 +1,76 @@
+{
+    "products":[
+       {"id": "dress1",
+        
+        "image": "/images/image 1-1.png",
+        "title": "Dress 1",
+        "description": "about dress 1",
+        "availableSizes": ["S","XL", "XXL"],
+        "price": 19.5
+    },
+       {"id": "dress2",
+        
+        "image": "/images/image 2-1.png",
+        "title": "Dress 2",
+        "description": "about dress 1",
+        "availableSizes": ["S","M","XL", "XXL"],
+        "price": 20.5
+    },
+       {"id": "dress3",
+        
+        "image": "/images/image 3-1.png",
+        "title": "Dress 3",
+        "description": "about dress 1",
+        "availableSizes": ["XS","M","L","XL", "XXL"],
+        "price": 19
+    },
+       {"id": "dress4",
+        
+        "image": "/images/image 4-1.png",
+        "title": "Dress 4",
+        "description": "about dress 1",
+        "availableSizes": ["S","M","L", "XXL"],
+        "price": 18.5
+    },
+       {"id": "dress5",
+        
+        "image": "/images/image 5-1.png",
+        "title": "Dress 5",
+        "description": "about dress 1",
+        "availableSizes": ["XS","L", "XXL"],
+        "price": 22
+    },
+       {"id": "dress6",
+        
+        "image": "/images/image 6-1.png",
+        "title": "Dress 6",
+        "description": "about dress 1",
+        "availableSizes": ["S","M", "XL"],
+        "price": 23.5
+    },
+       {"id": "dress7",
+        
+        "image": "/images/image 7-1.png",
+        "title": "Dress 7",
+        "description": "about dress 1",
+        "availableSizes": ["XL", "XXL"],
+        "price": 22.5
+    },
+       {"id": "dress8",
+        
+        "image": "/images/image 8-1.png",
+        "title": "Dress 8",
+        "description": "about dress 1",
+        "availableSizes": ["L","XL", "XXL"],
+        "price": 21
+    },
+       {"id": "dress9",
+        
+        "image": "/images/image 9-1.png",
+        "title": "Dress 9",
+        "description": "about dress 1",
+        "availableSizes": ["M","XL", "XXL"],
+        "price": 19.5
+    }
+    ]
+}
